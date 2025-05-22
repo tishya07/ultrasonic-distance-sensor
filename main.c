@@ -1,11 +1,3 @@
-/*
- * ECE 153B
- *
- * Name(s):
- * Section:
- * Lab: 3C
- */
- 
 #include <stdio.h> 
  
 #include "stm32l476xx.h"
